@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=300&pause=1000&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Egor)]
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=300&pause=1000&vCenter=true&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Egor)
 <h3 align="center">I am QA Engineer and Frontend Developer from Saint-Petersburg</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=upuzipu&label=Profile%20views&color=0e75b6&style=flat" alt="upuzipu" /> </p>
