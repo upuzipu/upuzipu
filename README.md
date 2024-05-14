@@ -11,8 +11,6 @@
 
 - 🌱 I’m currently learning **Next.js, Typescript**
 
-- 💬 Ask me about **React, PostgreSQL, Python, Java**
-
 - 📫 How to reach me **egornovikov52@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
